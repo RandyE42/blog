@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "static",
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "propertiesInDocument": "source"
 }

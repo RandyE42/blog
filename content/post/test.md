@@ -1,14 +1,12 @@
 ---
-tags:
-  - obsidian
-  - hugo
+title: "test"
+date: "2015-01-08T08:36:54-07:00"
+draft: true
+tags: [hugo,obsidian]
 ---
 
 
 测试哈哈哈哈
 
-[[content/readme|readme]]
 
-[测试单链接]()
-
-[readme](content/readme.md)
+[测试链接](content/readme.md)

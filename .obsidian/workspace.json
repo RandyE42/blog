@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1a7f5e8f00a8445c",
+        "id": "7b96503c79d24826",
         "type": "tabs",
         "children": [
           {
-            "id": "db433b039508c7fa",
+            "id": "c220cce61bbabeaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archetypes/default.md"
+                "file": "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,8 +147,20 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "db433b039508c7fa",
+  "active": "c220cce61bbabeaf",
   "lastOpenFiles": [
+    "themes/github-style-hugo/config.toml",
+    "themes/github-style-hugo/config.template copy.toml",
+    "content/post/test.md",
+    "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
+    "archetypes/default.md",
+    "themes/github-style-hugo/archetypes/default.md",
+    "themes/github-style-hugo/images/tn.png",
+    "themes/github-style-hugo/images/screenshot.png",
+    "themes/github-style-hugo/images/mobile.png",
+    "themes/github-style-hugo/images/latex_example.png",
+    "content/readme.md",
+    "themes/github-style-hugo/README.md",
     "themes/github-style-hugo/theme.toml",
     "themes/github-style-hugo/static/js/toc.js",
     "themes/github-style-hugo/static/js/theme-mode.js",
@@ -158,21 +172,10 @@
     "themes/github-style-hugo/static/images/rss.png",
     "themes/github-style-hugo/static/images/misskey.png",
     "themes/github-style-hugo/static/images/mastodon.png",
-    "themes/github-style-hugo/static/images/linkedin.png",
-    "themes/github-style-hugo/static/images/link.png",
-    "themes/github-style-hugo/static/images/instagram.png",
-    "themes/github-style-hugo/static/images/github.png",
     "themes/github-style-hugo/static/css/toc.css",
     "themes/github-style-hugo/static/css/syntax.css",
     "themes/github-style-hugo/static/css/light.css",
     "themes/github-style-hugo/static/css/github.min.css",
-    "themes/github-style-hugo/static/css/github-style.css",
-    "themes/github-style-hugo/static/css/gitalk.css",
-    "themes/github-style-hugo/archetypes/default.md",
-    "themes/github-style-hugo/README.md",
-    "themes/github-style/archetypes/default.md",
-    "archetypes/default.md",
-    "content/post/test.md",
-    "content/readme.md"
+    "themes/github-style/archetypes/default.md"
   ]
 }
