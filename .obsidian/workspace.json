@@ -6,7 +6,6 @@
       {
         "id": "1a7f5e8f00a8445c",
         "type": "tabs",
-        "dimension": 35.77235772357724,
         "children": [
           {
             "id": "db433b039508c7fa",
@@ -14,25 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/test.md",
+                "file": "archetypes/default.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1866a9e986405ee8",
-        "type": "tabs",
-        "dimension": 64.22764227642277,
-        "children": [
-          {
-            "id": "84b8d64aa7db7cca",
-            "type": "leaf",
-            "state": {
-              "type": "hugo-preview-view",
-              "state": {}
             }
           }
         ]
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/test.md",
+                "file": "archetypes/default.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/test.md",
+                "file": "archetypes/default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/test.md"
+                "file": "archetypes/default.md"
               }
             }
           }
@@ -149,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,16 +145,34 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "84b8d64aa7db7cca",
+  "active": "db433b039508c7fa",
   "lastOpenFiles": [
-    "content/readme.md",
+    "themes/github-style-hugo/theme.toml",
+    "themes/github-style-hugo/static/js/toc.js",
+    "themes/github-style-hugo/static/js/theme-mode.js",
+    "themes/github-style-hugo/static/js/github-style.js",
+    "themes/github-style-hugo/static/js/gitalk.min.js",
+    "themes/github-style-hugo/static/images/twitter.png",
+    "themes/github-style-hugo/static/images/tumblr.png",
+    "themes/github-style-hugo/static/images/stackoverflow.png",
+    "themes/github-style-hugo/static/images/rss.png",
+    "themes/github-style-hugo/static/images/misskey.png",
+    "themes/github-style-hugo/static/images/mastodon.png",
+    "themes/github-style-hugo/static/images/linkedin.png",
+    "themes/github-style-hugo/static/images/link.png",
+    "themes/github-style-hugo/static/images/instagram.png",
+    "themes/github-style-hugo/static/images/github.png",
+    "themes/github-style-hugo/static/css/toc.css",
+    "themes/github-style-hugo/static/css/syntax.css",
+    "themes/github-style-hugo/static/css/light.css",
+    "themes/github-style-hugo/static/css/github.min.css",
+    "themes/github-style-hugo/static/css/github-style.css",
+    "themes/github-style-hugo/static/css/gitalk.css",
+    "themes/github-style-hugo/archetypes/default.md",
+    "themes/github-style-hugo/README.md",
+    "themes/github-style/archetypes/default.md",
+    "archetypes/default.md",
     "content/post/test.md",
-    "themes/github-style/static/images/avatar.png",
-    "themes/github-style/images/tn.png",
-    "themes/github-style/images/screenshot.png",
-    "themes/github-style/images/latex_example.png",
-    "themes/github-style/images/mobile.png",
-    "content/post",
-    "archetypes/default.md"
+    "content/readme.md"
   ]
 }

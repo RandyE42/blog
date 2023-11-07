@@ -1,9 +1,14 @@
-+++
-title = 'Test'
-date = 2023-11-06T20:52:42+08:00
-draft = true
-+++
+---
+tags:
+  - obsidian
+  - hugo
+---
 
-#obsidian 
 
 测试哈哈哈哈
+
+[[content/readme|readme]]
+
+[测试单链接]()
+
+[readme](content/readme.md)
