@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "7f6117f2e5bd7fb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a7f5e8f00a8445c",
+        "type": "tabs",
+        "dimension": 35.77235772357724,
+        "children": [
+          {
+            "id": "db433b039508c7fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/post/test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1866a9e986405ee8",
+        "type": "tabs",
+        "dimension": 64.22764227642277,
+        "children": [
+          {
+            "id": "84b8d64aa7db7cca",
+            "type": "leaf",
+            "state": {
+              "type": "hugo-preview-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4f2ebed550ce2f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f256302d63ef62a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "030324de4cdce420",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "580a88b9286ae098",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bc1b9f846b950eac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "172a71698a8d219d",
+    "type": "split",
+    "children": [
+      {
+        "id": "07df3103a293f9e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fc1b9a368577277",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/post/test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98a8050497bd4825",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/post/test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b362e2c071744ded",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc49e373465b0044",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/post/test.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "84b8d64aa7db7cca",
+  "lastOpenFiles": [
+    "content/readme.md",
+    "content/post/test.md",
+    "themes/github-style/static/images/avatar.png",
+    "themes/github-style/images/tn.png",
+    "themes/github-style/images/screenshot.png",
+    "themes/github-style/images/latex_example.png",
+    "themes/github-style/images/mobile.png",
+    "content/post",
+    "archetypes/default.md"
+  ]
+}
