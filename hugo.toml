@@ -1,4 +1,4 @@
 baseURL = 'https://ruleless.cn/'
 languageCode = 'zh-cn'
 title = '码上币业'
-theme = 'PaperMod'
+theme = 'github-style-hugo'

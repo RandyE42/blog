@@ -1,1 +1,3 @@
-
+[submodule "themes/github-style-hugo"]
+	path = themes/github-style-hugo
+	url = git@github.com:RandyE42/github-style-hugo.git
