@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'github-style-hugo'
+baseURL = 'https://ruleless.cn/'
+languageCode = 'zh-cn'
+title = '码上币业'
+theme = 'PaperMod'

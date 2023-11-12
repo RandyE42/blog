@@ -11,12 +11,8 @@
             "id": "c220cce61bbabeaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -139,43 +130,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
+      "command-palette:打开命令面板": false
     }
   },
   "active": "c220cce61bbabeaf",
   "lastOpenFiles": [
-    "themes/github-style-hugo/config.toml",
-    "themes/github-style-hugo/config.template copy.toml",
+    "static/4bb6970bfe51598c4d33f85b3f75ac87_MD5.png",
+    "static/2dc98ce47db94ac486127f29305ba600_MD5.svg",
+    "content/post/减少手机使用时间计划.md",
+    "content/posts/定投/定投.md",
+    "content/posts/pic/4bb6970bfe51598c4d33f85b3f75ac87_MD5.png",
+    "content/posts/定投",
+    "content/posts/减少手机使用时间计划.md",
+    "content/posts/test.md",
+    "content/posts/pic",
+    "content/posts/image.png",
+    "content/posts/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
+    "content/posts",
+    "static/b281bddc582d3ff957607690e1eda545_MD5.svg",
+    "static/31a64e48a0fd5fcb8c2b54ca729d1ed2_MD5.svg",
+    "static/c2279e90aa3aa3510098217bafaa4efc_MD5.svg",
+    "static/269bf82c2a7792610b1e5ded50c3bef8_MD5.svg",
+    "static/72f229046f22403dfb3ff4f9806ad740_MD5.svg",
+    "themes/PaperMod/theme.toml",
+    "themes/PaperMod/layouts/partials/templates/twitter_cards.html",
+    "themes/PaperMod/layouts/partials/templates/schema_json.html",
+    "themes/PaperMod/layouts/partials/templates/opengraph.html",
+    "themes/PaperMod/layouts/_default/_markup/render-image.html",
+    "themes/PaperMod/layouts/shortcodes/rtl.html",
+    "themes/PaperMod/layouts/shortcodes/rawhtml.html",
+    "themes/PaperMod/images/tn.png",
+    "themes/PaperMod/images/screenshot.png",
+    "themes/PaperMod/README.md",
     "content/post/test.md",
+    "pic/4bb6970bfe51598c4d33f85b3f75ac87_MD5.png.md",
+    "content/post/定投/定投.md",
     "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
     "archetypes/default.md",
     "themes/github-style-hugo/archetypes/default.md",
-    "themes/github-style-hugo/images/tn.png",
-    "themes/github-style-hugo/images/screenshot.png",
-    "themes/github-style-hugo/images/mobile.png",
-    "themes/github-style-hugo/images/latex_example.png",
     "content/readme.md",
     "themes/github-style-hugo/README.md",
-    "themes/github-style-hugo/theme.toml",
-    "themes/github-style-hugo/static/js/toc.js",
-    "themes/github-style-hugo/static/js/theme-mode.js",
-    "themes/github-style-hugo/static/js/github-style.js",
-    "themes/github-style-hugo/static/js/gitalk.min.js",
-    "themes/github-style-hugo/static/images/twitter.png",
-    "themes/github-style-hugo/static/images/tumblr.png",
-    "themes/github-style-hugo/static/images/stackoverflow.png",
-    "themes/github-style-hugo/static/images/rss.png",
-    "themes/github-style-hugo/static/images/misskey.png",
-    "themes/github-style-hugo/static/images/mastodon.png",
-    "themes/github-style-hugo/static/css/toc.css",
-    "themes/github-style-hugo/static/css/syntax.css",
-    "themes/github-style-hugo/static/css/light.css",
-    "themes/github-style-hugo/static/css/github.min.css",
     "themes/github-style/archetypes/default.md"
   ]
 }
