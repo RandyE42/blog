@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/28小时手机使用时间计划.md",
+                "file": "content/posts/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/28小时手机使用时间计划.md",
+                "file": "content/posts/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/28小时手机使用时间计划.md",
+                "file": "content/posts/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/28小时手机使用时间计划.md"
+                "file": "content/posts/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md"
               }
             }
           }
@@ -149,42 +149,51 @@
   },
   "active": "c220cce61bbabeaf",
   "lastOpenFiles": [
-    "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
-    "content/post/28小时手机使用时间计划.md",
-    "content/post/test-post.md",
-    "content/post/test-post2.md",
-    "public/post/index.xml",
-    "public/index.xml",
-    "public/404.html",
-    "public/sitemap.xml",
-    "public/index.html",
-    "public/categories/page/1/index.html",
-    "public/categories/page/1",
-    "public/categories/page",
-    "public/categories/index.xml",
-    "public/categories/index.html",
-    "public/post/test-post/4d471137b78d470d4f1509afbc889af3_MD5.jpeg",
-    "public/post/28小时手机使用时间计划/2d1a8eed083af4b03d6c16d80c614e21_MD5.jpg",
-    "public/post/28小时手机使用时间计划/47078ef12bb5147f70f5fabcf2c71114_MD5.jpg",
-    "public/images/twitter.png",
-    "public/images/tumblr.png",
-    "public/images/stackoverflow.png",
-    "public/images/rss.png",
-    "public/images/misskey.png",
-    "public/images/mastodon.png",
-    "public/images/linkedin.png",
-    "archetypes/default.md",
+    "resources/_gen/assets/scss/css/style.scss_f120a3f402b106f64b18d498afd3d82e.json",
+    "resources/_gen/assets/scss/css/style.scss_f120a3f402b106f64b18d498afd3d82e.content",
+    "resources/_gen/assets/scss/css",
+    "resources/_gen/assets/scss",
+    "resources/_gen/assets",
+    "resources/_gen",
+    "resources",
+    "themes/hello-friend/README/0b491c8febecad3104b3156b87f8d83f_MD5.png",
+    "themes/hello-friend/README",
+    "themes/hello-friend/theme.toml",
+    "themes/hello-friend/static/img/favicon.png",
+    "themes/hello-friend/static/img/apple-touch-icon-144-precomposed.png",
+    "themes/hello-friend/static/style.css",
+    "themes/hello-friend/static/img",
+    "themes/hello-friend/images/tn.png",
+    "themes/hello-friend/images/screenshot.png",
+    "themes/hello-friend/exampleSite/static/img/hello.jpg",
+    "themes/hello-friend/exampleSite/content/post/hello.md",
+    "themes/hello-friend/exampleSite/content/showcase.md",
+    "themes/hello-friend/exampleSite/content/archive.md",
+    "themes/hello-friend/exampleSite/content/about.md",
+    "themes/hello-friend/USERS.md",
+    "themes/hello-friend/README.md",
+    "themes/hello-friend/LICENSE.md",
+    "themes/hello-friend/COMMUNITY-FEATURES.md",
+    "themes/hello-friend/static/wormhole_3.gif",
+    "themes/hello-friend/static/wormhole_1.gif",
+    "static/apps/vscode.webp",
+    "static/apps/rectangle.webp",
+    "static/template/reading-template.md",
+    "static/template/daily-template.md",
+    "static/template/coding-template.md",
+    "static/template/chat-template.md",
+    "content/posts/28小时手机使用时间计划.md",
+    "content/posts/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
     "content/readme.md",
+    "content/posts/test-post2.md",
+    "archetypes/default.md",
+    "themes/github-style-hugo/README.md",
+    "README.md",
+    "content/post/test-post.md",
     "content/post/定投/定投.md",
     "content/post/减少手机使用时间计划 1.md",
     "themes/github-style-hugo/archetypes/default.md",
     "content/未命名.md",
-    "content/posts/减少手机使用时间计划.md",
-    "themes/github-style-hugo/README.md",
-    "content/post/test.md",
-    "themes/PaperMod/README.md",
-    "content/post/test.md",
-    "pic/4bb6970bfe51598c4d33f85b3f75ac87_MD5.png.md",
-    "themes/github-style/archetypes/default.md"
+    "content/posts/减少手机使用时间计划.md"
   ]
 }

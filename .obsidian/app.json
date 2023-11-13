@@ -1,6 +1,6 @@
 {
-  "attachmentFolderPath": "content/static",
-  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "static",
+  "showUnsupportedFiles": false,
   "useMarkdownLinks": true,
   "propertiesInDocument": "visible",
   "vimMode": false,

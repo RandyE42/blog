@@ -1,6 +1,6 @@
-baseURL = 'https://ruleless.cn'
+baseURL = ''
 languageCode = 'zh-cn'
-title = '码上币业'
+title = "Randyx's Blog"
 theme = 'github-style-hugo'
 uglyURLs = false
 googleAnalytics = ""
@@ -10,9 +10,9 @@ pygmentsUseClasses = true
 [params]
   author = "概率"
   description = "In solitude, where we are least alone."
-  github = "RandyE42"
+  github = "Randyx233"
   facebook = ""
-  twitter = "RandomEbb42"
+  twitter = "Randyx042"
   linkedin = ""
   instagram = ""
   tumblr = ""
