@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
+                "file": "content/post/28小时手机使用时间计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
+                "file": "content/post/28小时手机使用时间计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
+                "file": "content/post/28小时手机使用时间计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md"
+                "file": "content/post/28小时手机使用时间计划.md"
               }
             }
           }
@@ -149,9 +149,9 @@
   },
   "active": "c220cce61bbabeaf",
   "lastOpenFiles": [
+    "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
     "content/post/28小时手机使用时间计划.md",
     "content/post/test-post.md",
-    "content/post/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
     "content/post/test-post2.md",
     "public/post/index.xml",
     "public/index.xml",
