@@ -2,7 +2,7 @@
   "attachmentFolderPath": "content/static",
   "showUnsupportedFiles": true,
   "useMarkdownLinks": true,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "visible",
   "vimMode": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
