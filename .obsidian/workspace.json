@@ -147,8 +147,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c220cce61bbabeaf",
+  "active": "030324de4cdce420",
   "lastOpenFiles": [
+    "themes/github-style-hugo/config.toml",
     "resources/_gen/assets/scss/css/style.scss_f120a3f402b106f64b18d498afd3d82e.json",
     "resources/_gen/assets/scss/css/style.scss_f120a3f402b106f64b18d498afd3d82e.content",
     "resources/_gen/assets/scss/css",
@@ -162,7 +163,6 @@
     "themes/hello-friend/static/img/favicon.png",
     "themes/hello-friend/static/img/apple-touch-icon-144-precomposed.png",
     "themes/hello-friend/static/style.css",
-    "themes/hello-friend/static/img",
     "themes/hello-friend/images/tn.png",
     "themes/hello-friend/images/screenshot.png",
     "themes/hello-friend/exampleSite/static/img/hello.jpg",
