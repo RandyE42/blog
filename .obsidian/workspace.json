@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/posts/28小时手机使用时间计划.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/posts/28小时手机使用时间计划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/posts/28小时手机使用时间计划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archetypes/default.md"
+                "file": "content/posts/28小时手机使用时间计划.md"
               }
             }
           }
@@ -148,11 +148,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc59e83dc71fca5b",
+  "active": "030324de4cdce420",
   "lastOpenFiles": [
-    "static/index.json",
-    "public/posts/page/1/index.html",
+    "themes/hello-friend/config.toml.templete",
     "public/categories/page/1/index.html",
+    "public/posts/page/1/index.html",
     "public/tags/时间管理/index.xml",
     "public/tags/时间管理/index.html",
     "public/posts/page/1",
@@ -175,6 +175,10 @@
     "public/template/daily-template.md",
     "public/template/coding-template.md",
     "public/template/chat-template.md",
+    "content/posts/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
+    "content/posts/28小时手机使用时间计划.md",
+    "content/posts/test-post2.md",
+    "archetypes/default.md",
     "themes/immmmm/content/posts/reading/worth-reading-parenting-book.md",
     "themes/immmmm/content/posts/reading/book-isbn-9787613337624.md",
     "themes/immmmm/content/posts/reading/book-isbn-9787559848048.md",
@@ -191,10 +195,6 @@
     "themes/immmmm/content/posts/reading/book-isbn-9787508679341.md",
     "themes/immmmm/content/posts/reading/book-isbn-9787213093302.md",
     "themes/immmmm/content/posts/reading/book-isbn-9787208171336.md",
-    "themes/immmmm/content/posts/reading/book-isbn-9787121320309.md",
-    "themes/immmmm/content/posts/reading/book-isbn-9787115578044.md",
-    "themes/immmmm/content/posts/reading/_index.md",
-    "themes/immmmm/content/posts/weekly/weekly-2023-11-11.md",
-    "themes/immmmm/content/posts/weekly/weekly-2023-11-04.md"
+    "themes/immmmm/content/posts/reading/book-isbn-9787121320309.md"
   ]
 }
