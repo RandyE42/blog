@@ -1,7 +1,7 @@
 baseURL  =  ""
 languageCode = "zh-CN"
 # DefaultContentLanguage = "zh-CN"
-title  =  "概率论"
+title = "概率论"
 subtitle = "不问明天，悠然浪费"
 
 theme  =  "hello-friend"
