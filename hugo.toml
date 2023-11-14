@@ -14,10 +14,6 @@ rssLimit = 5
 timeout = '30s'
 ignoreErrors = ["error-remote-getjson","error-remote-getcsv"]
 
-[permalinks]
-  posts = "/:filename/"
-  tags = "/tags/:slug/"
-
 [menu]
   [[menu.main]]
   name="归档"
