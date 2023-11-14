@@ -27,6 +27,10 @@ ignoreErrors = ["error-remote-getjson","error-remote-getcsv"]
   name="关于"
   url="/about/"
   weight="6"
+  [[menu.main]]
+  name="🔍"
+  url="/search/"
+  weight="99"
 
 [params]
   # dir name of your blog content (default is `content/posts`)

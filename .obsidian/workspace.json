@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/28小时手机使用时间计划.md",
+                "file": "archetypes/default.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/28小时手机使用时间计划.md",
+                "file": "archetypes/default.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/28小时手机使用时间计划.md",
+                "file": "archetypes/default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/28小时手机使用时间计划.md"
+                "file": "archetypes/default.md"
               }
             }
           }
@@ -150,50 +150,51 @@
   },
   "active": "fc59e83dc71fca5b",
   "lastOpenFiles": [
-    "content/_index.md",
-    "content/index.md",
-    "themes/hello-friend/layouts/_default/index.html.html",
-    "content/archives/_index.md",
-    "themes/hello-friend/layouts/_default/index.html",
-    "archetypes/default.md",
-    "content/posts/中文标题.md",
-    "content/posts/28小时手机使用时间计划.md",
-    "content/posts/Obsidian+Hugo+Cloudflare Pages搭建静态博客.md",
-    "content/friends.md",
-    "static/friends.json",
-    "themes/immmmm/content/bbs.md",
-    "content/archives",
-    "content/bbs.md",
-    "content/bb.md",
-    "themes/immmmm/content/bb.md",
-    "themes/immmmm/content/album.md",
-    "content/goods.md",
-    "content/album.md",
-    "content/about.md",
-    "themes/immmmm/content/about.md",
-    "themes/immmmm/content/posts/daily/skip-this-years-again.md",
-    "themes/immmmm/content/posts/daily/the-world-between-us.md",
-    "themes/immmmm/content/posts/daily/new-mac-101.md",
-    "themes/immmmm/content/posts/daily/hi-2020.md",
-    "themes/immmmm/content/posts/daily/happy-birthday-2020.md",
-    "themes/immmmm/content/posts/daily/dont-forget-smile.md",
-    "themes/immmmm/content/posts/daily/correct-three-folly.md",
-    "themes/immmmm/content/posts/daily/come-back.md",
-    "themes/immmmm/content/posts/daily/2019-2021-ncov/bd261c95d67f29b7407c36d34d586405_MD5.jpg",
-    "data/douban/movie.csv",
-    "data/douban/book.csv",
-    "data/douban",
-    "static/apps/vscode.webp",
-    "static/apps/rectangle.webp",
-    "static/apps/picgo.webp",
-    "static/apps/obsidian.webp",
-    "static/apps/keka.webp",
-    "static/apps/iina.webp",
-    "static/apps/hidden.webp",
-    "static/apps/bob.webp",
-    "static/apps/apps.json",
-    "static/apps/TinyPNG4Mac.webp",
-    "static/apps",
-    "static/photos"
+    "static/index.json",
+    "public/posts/page/1/index.html",
+    "public/categories/page/1/index.html",
+    "public/tags/时间管理/index.xml",
+    "public/tags/时间管理/index.html",
+    "public/posts/page/1",
+    "public/posts/28小时手机使用时间计划/index.html",
+    "public/posts/28小时手机使用时间计划/47078ef12bb5147f70f5fabcf2c71114_MD5.jpg",
+    "public/posts/28小时手机使用时间计划/2d1a8eed083af4b03d6c16d80c614e21_MD5.jpg",
+    "public/page/1/index.html",
+    "public/memos/js/zh-cn.js",
+    "public/memos/js/view-image.js",
+    "public/memos/js/relativeTime.js",
+    "public/memos/assets/logo_24x24.png",
+    "public/memos/assets/logo.png",
+    "public/memos/assets/logo.jpg",
+    "public/images/2004gd/gd-05.jpeg",
+    "public/images/2004gd/gd-04.jpeg",
+    "public/images/2004gd/gd-03.jpeg",
+    "public/images/2004gd/gd-03-1.jpeg",
+    "public/images/2004gd/gd-02.jpeg",
+    "public/template/reading-template.md",
+    "public/template/daily-template.md",
+    "public/template/coding-template.md",
+    "public/template/chat-template.md",
+    "themes/immmmm/content/posts/reading/worth-reading-parenting-book.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787613337624.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787559848048.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787553674544.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787550292895.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787549920952.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787521727258.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787521712599.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787516827222.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787513340243.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787513340243-2.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787508692098.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787508687032.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787508679341.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787213093302.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787208171336.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787121320309.md",
+    "themes/immmmm/content/posts/reading/book-isbn-9787115578044.md",
+    "themes/immmmm/content/posts/reading/_index.md",
+    "themes/immmmm/content/posts/weekly/weekly-2023-11-11.md",
+    "themes/immmmm/content/posts/weekly/weekly-2023-11-04.md"
   ]
 }
