@@ -7,8 +7,7 @@ tags:
   - Obsidian
   - Hugo
   - 静态博客
-cover: 
-summary:
+layout: 'posts'
 ---
 
 目前在使用Obsidian进行知识库管理和输出，使用过程中主要有几个痛点：
