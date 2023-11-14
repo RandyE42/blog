@@ -139,16 +139,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
   "active": "030324de4cdce420",
   "lastOpenFiles": [
+    "static",
+    "未命名文件夹",
     "themes/github-style-hugo/config.toml",
     "resources/_gen/assets/scss/css/style.scss_f120a3f402b106f64b18d498afd3d82e.json",
     "resources/_gen/assets/scss/css/style.scss_f120a3f402b106f64b18d498afd3d82e.content",
@@ -159,10 +161,8 @@
     "resources",
     "themes/hello-friend/README/0b491c8febecad3104b3156b87f8d83f_MD5.png",
     "themes/hello-friend/README",
-    "themes/hello-friend/theme.toml",
     "themes/hello-friend/static/img/favicon.png",
     "themes/hello-friend/static/img/apple-touch-icon-144-precomposed.png",
-    "themes/hello-friend/static/style.css",
     "themes/hello-friend/images/tn.png",
     "themes/hello-friend/images/screenshot.png",
     "themes/hello-friend/exampleSite/static/img/hello.jpg",
