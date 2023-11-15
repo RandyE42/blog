@@ -1,6 +1,6 @@
 ---
 title: '关于'
-date: 2020-03-14 12:41:27
+date: 2023-11-14 12:41:27
 layout: 'posts'
 ---
 
@@ -9,13 +9,6 @@ layout: 'posts'
 ### 博客程序
 
 - Hugo：<https://gohugo.io/>
-- 本站源码：<https://github.com/lmm214/immmmm>
+- 本站源码：<https://github.com/Randyx233/Randyx-blog>
 
 <!--more-->
-
-### 欢迎打赏
-
-<figure>
-    <img src="https://pic.edui.fun/wx.jpg" alt="微信打赏" />
-    <figcaption>微信打赏</figcaption>
-</figure>
