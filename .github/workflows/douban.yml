@@ -18,6 +18,7 @@ jobs:
       with:
         id: randyx404
         type: movie
+        status: collect
         format: csv
         dir: ./data/douban
         
