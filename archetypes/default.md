@@ -1,8 +1,6 @@
 ---
-title:
-  "{ replace .File.ContentBaseName \"-\" \" \" | title }": 
-date:
-  "{ .Date }": 
+title: "{ replace .File.ContentBaseName \"-\" \" \" | title }": 
+date: "{ .Date }": 
 draft: true
 keywords: 
 tags: 

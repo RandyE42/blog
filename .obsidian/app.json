@@ -12,5 +12,6 @@
     "layouts/"
   ],
   "newLinkFormat": "shortest",
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false
 }
