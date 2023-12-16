@@ -1,12 +1,12 @@
 ---
 title: Obsidian+Hugo+Cloudflare Pages搭建静态博客
-date: 2023-12-08T15:24:18
+date: 2023-12-12T17:24:18+08:00
 draft: false
-tags:
-  - Obsidian
-  - Hugo
-  - 静态博客
 layout: posts
+tags:
+  - obsidian
+  - hugo
+  - 静态博客
 ---
 
 今年开始使用obsidian做知识库管理和笔记，也重新开始写博客。于是想要也用obsidian来写，那么同样支持markdown格式的静态博客方案就非常适合了。
@@ -39,16 +39,14 @@ echo "theme = 'ananke'" >> hugo.toml
 hugo server
 ```
 主题可以任意选择自己喜欢的下载到theme目录即可
-![](b9f80f2c83e13313e009cb8a35b23275_MD5.jpeg)
+
 
 ### 使用Obsidian进行写作
 Obsidian新建仓库，选择打开刚刚建立的Hugo本地仓库目录
-
+![](39d40c81ff5af31505db50a3ee0fe563_MD5.jpeg)
 
 ### 同步Github仓库
 
 
 
-
 ## Cloudflare Pages自动构建静态博客
-
