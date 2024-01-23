@@ -8,49 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bdfb0c3b153d0f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/28小时手机使用时间计划.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "7a5fa5e6c6b2a49c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/obsidian静态博客.md",
+                "file": "content/posts/obsidian-picgo-upload-image.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               }
-            },
-            "group": "62f44120df1eb59e"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "976738fe6c456e22",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f3f3c824bc61b602",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/obsidian静态博客.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "62f44120df1eb59e"
+            }
           }
         ]
       }
@@ -118,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/obsidian静态博客.md",
+                "file": "content/posts/obsidian-picgo-upload-image.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/obsidian静态博客.md",
+                "file": "content/posts/obsidian-picgo-upload-image.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/obsidian静态博客.md"
+                "file": "content/posts/obsidian-picgo-upload-image.md"
               }
             }
           }
@@ -184,8 +152,14 @@
   "active": "7a5fa5e6c6b2a49c",
   "lastOpenFiles": [
     "content/posts/28小时手机使用时间计划.md",
+    "content/posts/obsidian-picgo-upload-image.md",
     "content/posts/obsidian静态博客.md",
+    "archetypes/default.md",
+    "content/obsidian-picgo-upload-image.md",
+    "content/archives/_index.md",
     "content/posts/obsidian静态博客/a867829b9887aac8455cf888fa9ffe15_MD5.jpeg",
+    "content/posts/未命名.md",
+    "data/douban/book.csv",
     "static/Pasted image 20231214185642.png",
     "content/posts/obsidian静态博客/39d40c81ff5af31505db50a3ee0fe563_MD5.jpeg",
     "content/posts/Obsidian-Hugo-Cloudflare Pages搭建静态博客/7da4bd7e8ecb88a5654d758e97f48162_MD5.jpeg",
@@ -199,7 +173,6 @@
     "static/Pasted image 20231214184803.png",
     "content/posts/Obsidian+Hugo+Cloudflare Pages搭建静态博客/b9f80f2c83e13313e009cb8a35b23275_MD5.jpeg",
     "content/posts/Obsidian+Hugo+Cloudflare Pages搭建静态博客",
-    "archetypes/default.md",
     "content/posts/Obsidian搭建静态博客.md",
     "content/posts/Obsidian搭建静态博客",
     "content/movies.md",
@@ -208,12 +181,10 @@
     "content/books.md",
     "content/_index.md",
     "content/search.md",
-    "content/archives/_index.md",
     "content/about",
     "server.sh",
     "static/favicon.ico",
     "static/creeper_circular_corrected_64x64.ico",
-    "static/creeper_rounded_64x64.ico",
     "content/posts/test-post2.md",
     "public/template/reading-template.md",
     "public/template/daily-template.md",
@@ -225,8 +196,6 @@
     "themes/immmmm/content/posts/reading/book-isbn-9787553674544.md",
     "themes/immmmm/content/posts/reading/book-isbn-9787550292895.md",
     "themes/immmmm/content/posts/reading/book-isbn-9787549920952.md",
-    "themes/immmmm/content/posts/reading/book-isbn-9787521727258.md",
-    "themes/immmmm/content/posts/reading/book-isbn-9787521712599.md",
-    "themes/immmmm/content/posts/reading/book-isbn-9787516827222.md"
+    "themes/immmmm/content/posts/reading/book-isbn-9787521727258.md"
   ]
 }

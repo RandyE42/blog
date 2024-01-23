@@ -43,7 +43,10 @@ hugo server
 
 ### 使用Obsidian进行写作
 Obsidian新建仓库，选择打开刚刚建立的Hugo本地仓库目录
+
 ![](39d40c81ff5af31505db50a3ee0fe563_MD5.jpeg)
+![](39d40c81ff5af31505db50a3ee0fe563_MD5.jpeg)
+
 
 ### 同步Github仓库
 
